@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-01T18:27:38.382Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="kxeYf0MCNtsHB-Naz-PE" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-01T18:42:05.277Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="jXCsGsrdUNTcUiNBcWJs" version="20.4.0" type="github">
   <diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
     <mxGraphModel dx="822" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
         <mxCell id="tYTvWXKAVSk7aJ8OGIch-2" value="Order_Request" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="185" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="tYTvWXKAVSk7aJ8OGIch-4" value="Check-Volumn" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tYTvWXKAVSk7aJ8OGIch-4" value="Check-Tank" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="190" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tYTvWXKAVSk7aJ8OGIch-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="tYTvWXKAVSk7aJ8OGIch-9" target="tYTvWXKAVSk7aJ8OGIch-10">
@@ -43,6 +43,36 @@
         </mxCell>
         <mxCell id="tYTvWXKAVSk7aJ8OGIch-16" value="Payment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="330" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tYTvWXKAVSk7aJ8OGIch-18" value="Material" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="700" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tYTvWXKAVSk7aJ8OGIch-19" value="Tank" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="237.5" y="700" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tYTvWXKAVSk7aJ8OGIch-20" value="Giai đoạn phân tích hệ thống" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry y="60" width="215" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="tYTvWXKAVSk7aJ8OGIch-21" value="a. Sơ đồ Use Case nghiệp vụ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="100" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tYTvWXKAVSk7aJ8OGIch-22" value="b. Thừa tác viên và thực thể nghiệp vụ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="420" width="217.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tYTvWXKAVSk7aJ8OGIch-23" value="- Thừa tác viên" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="460" width="217.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tYTvWXKAVSk7aJ8OGIch-24" value="- Object Entity: Staff,&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="660" width="217.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tYTvWXKAVSk7aJ8OGIch-25" value="Staff_Information" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="700" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tYTvWXKAVSk7aJ8OGIch-26" value="Order" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="700" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tYTvWXKAVSk7aJ8OGIch-27" value="Order" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="700" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
