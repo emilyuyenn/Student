@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-02T12:43:37.730Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="pK1unDJ3SKGEf54RdqSs" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-02T13:06:26.294Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="9l9xOowl0CtHnQi9ztjG" version="20.4.0" type="github">
   <diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
     <mxGraphModel dx="699" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -541,7 +541,7 @@
         <mxCell id="tYTvWXKAVSk7aJ8OGIch-194" value="Báo cáo hàng tháng" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="503" y="4965" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="tYTvWXKAVSk7aJ8OGIch-197" value="QL Nhiên Liệu" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="tYTvWXKAVSk7aJ8OGIch-197" value="QL Bồn" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="283" y="4845" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tYTvWXKAVSk7aJ8OGIch-201" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#FF0000;fontSize=14;startArrow=none;startFill=0;endArrow=open;endFill=0;" parent="1" source="tYTvWXKAVSk7aJ8OGIch-200" target="tYTvWXKAVSk7aJ8OGIch-191" edge="1">
