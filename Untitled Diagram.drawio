@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-03T11:41:00.360Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="iychqdkzCQwc0ayDkhn4" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-03T11:43:12.386Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="rr9YrUFm3KYb_S-1-5pE" version="20.4.0" type="github">
   <diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
     <mxGraphModel dx="940" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1055,15 +1055,15 @@
           <mxGeometry x="790" y="8110" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tYTvWXKAVSk7aJ8OGIch-293" value="11: Lập phiếu Giao Dịch()" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;startSize=10;html=1;rounded=0;strokeColor=#FF0000;fontSize=14;" parent="1" edge="1">
-          <mxGeometry x="0.2113" y="7" width="160" relative="1" as="geometry">
-            <mxPoint x="618" y="7965.5" as="sourcePoint" />
-            <mxPoint x="728" y="8026" as="targetPoint" />
+          <mxGeometry x="0.7972" y="11" width="160" relative="1" as="geometry">
+            <mxPoint x="696" y="8015" as="sourcePoint" />
+            <mxPoint x="806" y="8075.5" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tYTvWXKAVSk7aJ8OGIch-294" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;strokeColor=#FF0000;fontSize=14;dashed=1;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="648.5" y="8041" as="sourcePoint" />
+            <mxPoint x="700" y="8070" as="sourcePoint" />
             <mxPoint x="588" y="8006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
