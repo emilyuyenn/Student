@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-03T02:06:03.671Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="HON7wzh2u41jLiyHeOF0" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-03T02:06:32.958Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="ZU0LjgWLNAF30wFbA1ZM" version="20.4.0" type="github">
   <diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
     <mxGraphModel dx="699" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -646,7 +646,7 @@
           <mxGeometry x="5" y="130" width="10" height="380" as="geometry" />
         </mxCell>
         <mxCell id="tYTvWXKAVSk7aJ8OGIch-241" value=": Form Giao Dich" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=14;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="273" y="6030" width="652" height="1550" as="geometry" />
+          <mxGeometry x="273" y="6030" width="47" height="580" as="geometry" />
         </mxCell>
         <mxCell id="tYTvWXKAVSk7aJ8OGIch-249" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#000000;fontSize=14;fillColor=#C4FDFF;gradientColor=none;" parent="tYTvWXKAVSk7aJ8OGIch-241" vertex="1">
           <mxGeometry x="21.75" y="130" width="10" height="380" as="geometry" />
